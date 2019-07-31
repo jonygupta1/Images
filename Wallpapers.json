@@ -1,163 +1,261 @@
 {
 	"wallpapers": [
 		{
+			"name": "default_wallpaper (2)",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper (2).png",
+			"dimensions": "2152 x 2152",
+			"copyright": ""
+		},
+		{
 			"name": "default_wallpaper",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/default_wallpaper.png",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper.png",
 			"dimensions": "3040 x 3040",
+			"copyright": ""
+		},
+		{
+			"name": "default_wallpaper_blue (2)",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper_blue (2).png",
+			"dimensions": "2152 x 2152",
 			"copyright": ""
 		},
 		{
 			"name": "default_wallpaper_blue",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/default_wallpaper_blue.png",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper_blue.png",
 			"dimensions": "3040 x 3040",
+			"copyright": ""
+		},
+		{
+			"name": "default_wallpaper_blue_sub",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper_blue_sub.png",
+			"dimensions": "2152 x 2152",
+			"copyright": ""
+		},
+		{
+			"name": "default_wallpaper_green (2)",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper_green (2).png",
+			"dimensions": "2152 x 2152",
 			"copyright": ""
 		},
 		{
 			"name": "default_wallpaper_green",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/default_wallpaper_green.png",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper_green.png",
 			"dimensions": "3040 x 3040",
+			"copyright": ""
+		},
+		{
+			"name": "default_wallpaper_green_sub",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper_green_sub.png",
+			"dimensions": "2152 x 2152",
 			"copyright": ""
 		},
 		{
 			"name": "default_wallpaper_pink",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/default_wallpaper_pink.png",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper_pink.png",
 			"dimensions": "3040 x 3040",
+			"copyright": ""
+		},
+		{
+			"name": "default_wallpaper_silver",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper_silver.png",
+			"dimensions": "2152 x 2152",
+			"copyright": ""
+		},
+		{
+			"name": "default_wallpaper_silver_sub",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper_silver_sub.png",
+			"dimensions": "2152 x 2152",
+			"copyright": ""
+		},
+		{
+			"name": "default_wallpaper_sub",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper_sub.png",
+			"dimensions": "2152 x 2152",
 			"copyright": ""
 		},
 		{
 			"name": "default_wallpaper_white",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/default_wallpaper_white.png",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper_white.png",
 			"dimensions": "3040 x 3040",
 			"copyright": ""
 		},
 		{
 			"name": "default_wallpaper_yellow",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/default_wallpaper_yellow.png",
+			"url": "https://github.com/lakshit1/Images/default_wallpaper_yellow.png",
 			"dimensions": "3040 x 3040",
+			"copyright": ""
+		},
+		{
+			"name": "dex_wallpaper_1",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/dex_wallpaper_1.png",
+			"dimensions": "1920 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "dex_wallpaper_2",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/dex_wallpaper_2.png",
+			"dimensions": "1920 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "dex_wallpaper_3",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/dex_wallpaper_3.png",
+			"dimensions": "1920 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "dex_wallpaper_4",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/dex_wallpaper_4.png",
+			"dimensions": "1920 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "essential_built_in_wallpaper_1",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/essential_built_in_wallpaper_1.png",
+			"dimensions": "2152 x 2152",
+			"copyright": ""
+		},
+		{
+			"name": "essential_built_in_wallpaper_2",
+			"author": "Samsung",
+			"url": "https://github.com/lakshit1/Images/essential_built_in_wallpaper_2.png",
+			"dimensions": "2152 x 2152",
 			"copyright": ""
 		},
 		{
 			"name": "Samsung_Galaxy_A50_Wallpaper_by_AREA39-X",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/Samsung_Galaxy_A50_Wallpaper_by_AREA39-X.png",
+			"url": "https://github.com/lakshit1/Images/Samsung_Galaxy_A50_Wallpaper_by_AREA39-X.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_1",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_1.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_1.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_10",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_10.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_10.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_2",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_2.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_2.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_3",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_3.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_3.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_4",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_4.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_4.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_5",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_5.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_5.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_6",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_6.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_6.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_7",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_7.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_7.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_8",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_8.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_8.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_9",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_9.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_9.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_black",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_black.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_black.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_blue",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_blue.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_blue.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_green",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_green.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_green.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_pink",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_pink.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_pink.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_white",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_white.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_white.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		},
 		{
 			"name": "wallpaper_yellow",
 			"author": "Samsung",
-			"url": "https://github.com/lakshit1/Images/blob/master/Galaxy%20S10/wallpaper_yellow.png",
+			"url": "https://github.com/lakshit1/Images/wallpaper_yellow.png",
 			"dimensions": "2560 x 2560",
 			"copyright": ""
 		}
