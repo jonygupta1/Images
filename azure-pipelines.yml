@@ -7,13 +7,13 @@ trigger:
 - master
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: 'windows-latest'
 
 steps:
 - script: |
     cd wallpapers
     java -jar cre8json.jar
-    echo wallpapers
+    echo walls
     echo lakshit
     echo https://raw.githubusercontent.com/mehulagg/Images/master/Wallpapers/
     echo Lakshit
