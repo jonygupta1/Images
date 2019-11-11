@@ -13,11 +13,7 @@ steps:
 - script: |
     cd Wallpapers
     java -version
-    java -jar cre8json.jar
-    echo walls
-    echo lakshit
-    echo https://raw.githubusercontent.com/mehulagg/Images/master/Wallpapers/
-    echo Lakshit
+    $ printf 'walls\nlakshit\nhttps://raw.githubusercontent.com/mehulagg/Images/master/Wallpapers/\nLakshit' | java -jar cre8json.jar
 - task: PublishPipelineArtifact@1
   inputs:
     targetPath: '$(Pipeline.Workspace)'
