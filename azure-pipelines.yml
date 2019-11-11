@@ -7,12 +7,14 @@ trigger:
 - master
 
 pool:
-  vmImage: 'windows-latest'
+  vmImage: 'ubuntu-latest'
 
 steps:
 - script: |
     cd wallpapers
-    java -jar cre8json.jar
+    sudo apt-get install binfmt-support
+    chmod a+rx cre8json.jar
+    ./cre8json.jar
     echo walls
     echo lakshit
     echo https://raw.githubusercontent.com/mehulagg/Images/master/Wallpapers/
