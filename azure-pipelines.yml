@@ -10,13 +10,13 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
-
 - script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+    cd wallpapers
+    java -jar cre8json.jar
+    echo wallpapers
+    echo lakshit
+    echo https://raw.githubusercontent.com/mehulagg/Images/master/Wallpapers/
+    echo Lakshit
 - task: PublishPipelineArtifact@1
   inputs:
     targetPath: '$(Pipeline.Workspace)'
