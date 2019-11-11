@@ -12,8 +12,8 @@ pool:
 steps:
 - script: |
     cd Wallpapers
-    chmod +x cre8json.jar
-    ./cre8json.jar
+    java -version
+    java -jar cre8json.jar
     echo walls
     echo lakshit
     echo https://raw.githubusercontent.com/mehulagg/Images/master/Wallpapers/
