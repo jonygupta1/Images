@@ -19,7 +19,7 @@ steps:
     git config --global user.name "Jony gupta"
     git add Wallpapers/walls.json
     git commit -m "update walls.json"
-    git push https://yhadribarcbr5khldsdfm3ehczv4gsfakexgxo3ebjaonmt3pfla@dev.azure.com/jonygupta80/Wallpapers/_git/walls 
+    git push https://yhadribarcbr5khldsdfm3ehczv4gsfakexgxo3ebjaonmt3pfla@dev.azure.com/jonygupta80/Wallpapers/_git/walls HEAD:master
 - task: PublishPipelineArtifact@1
   inputs:
     targetPath: '$(Pipeline.Workspace)'
