@@ -19,7 +19,7 @@ steps:
     git config --global user.name "Jony gupta"
     git add Wallpapers/walls.json
     git commit -m "update walls.json"
-    git remote add origin https://yhadribarcbr5khldsdfm3ehczv4gsfakexgxo3ebjaonmt3pfla@dev.azure.com/jonygupta80/Wallpapers/_git/Images
+    git remote add origin https://yhadribarcbr5khldsdfm3ehczv4gsfakexgxo3ebjaonmt3pfla@dev.azure.com/jonygupta80/Wallpapers/_git/walls
     git push -u origin --all
 - task: PublishPipelineArtifact@1
   inputs:
