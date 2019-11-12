@@ -15,6 +15,8 @@ steps:
     java -version
     printf 'walls\nlakshit\nhttps://raw.githubusercontent.com/mehulagg/Images/master/Wallpapers/\nLakshit\nY' | java -jar cre8json.jar
 - script: |
+    git config --global user.email "jonygupta80@gmail.com"
+    git config --global user.name "Jony gupta"
     git commit -m "update walls.json"
     git remote add origin https://jonygupta80@dev.azure.com/jonygupta80/Wallpapers/_git/Images
     git push -u origin --all
